@@ -1,0 +1,314 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.0" creator="c:geo - http://www.cgeo.org/" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0/1 http://www.groundspeak.com/cache/1/0/1/cache.xsd http://www.gsak.net/xmlv1/6 http://www.gsak.net/xmlv1/6/gsak.xsd" xmlns="http://www.topografix.com/GPX/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1" xmlns:gsak="http://www.gsak.net/xmlv1/6" xmlns:cgeo="http://www.cgeo.org/wptext/1/0">
+  <wpt lat="51.324583" lon="7.318333">
+    <time>2021-01-26T00:00:00Z</time>
+    <name>GC95KQV</name>
+    <desc>Marathon</desc>
+    <url>https://coord.info/GC95KQV</url>
+    <urlname>Marathon</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="8068522" available="True" archived="False">
+      <groundspeak:name>Marathon</groundspeak:name>
+      <groundspeak:placed_by>Linderhausener</groundspeak:placed_by>
+      <groundspeak:owner>Linderhausener</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:attributes>
+        <groundspeak:attribute id="55" inc="1">Kurze Wanderung (weniger als 1 km)</groundspeak:attribute>
+        <groundspeak:attribute id="72" inc="1">Geocaching.com-Koordinatenprüfung aktiviert</groundspeak:attribute>
+        <groundspeak:attribute id="37" inc="1">Pferde erlaubt</groundspeak:attribute>
+        <groundspeak:attribute id="19" inc="1">Zecken</groundspeak:attribute>
+      </groundspeak:attributes>
+      <groundspeak:difficulty>4</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Nordrhein-Westfalen</groundspeak:state>
+      <groundspeak:short_description html="False"></groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p style="margin-left:1.27cm;"&gt;Bei keiner anderen Sportart kann man auch als Jedermann Teil des Profi-Wettbewerbs sein! Der Marathonlauf - geschichtlich auf dem antiken, von Athen bis nach Sparta führenden Botenlauf des Persers Pheidippides basierend und seit den Olympischen Spielen 1908 in London auf 42,195 km festgelegt - hat in den letzten 30 Jahren auch als Volkssport einen wahren Boom erlebt und zählt allein in Deutschland rund 200 öffentliche Austragungen. Hinzu kommen tausende Volksläufe über kürzere Distanzen, die so ziemlich jede Stadt in den Genuss einer Laufveranstaltung kommen lassen. In Gevelsberg gibt es seit 2016 den Stadionlauf über 10 und 3 km.&lt;br /&gt; Der zurzeit beste Marathonläufer und amtierende Olympiasieger Eliud Kipchoge stammt wie so viele erfolgreiche Langstreckenläufer aus Kenia und hält seit 2018 mit 2:01:39 h den offiziellen Weltrekord. Mit 1:59:40 h hat er die Marathonstrecke 2019 als erster Mensch in weniger als zwei Stunden absolviert - eine Zeit, die jedoch nicht vom Leichtathletik-Weltverband anerkannt wird, weil Tempomacher und eine optische Zeitmarkierung genutzt wurden. Diese erstaunliche Leistung entspricht einem Durchschnitt von 2:50 Minuten pro Kilometer. Nach einer erfolgreichen Karriere als 5.000-Meter-Läufer mit komplettem Medaillensatz bei Weltmeisterschaften und zwei olympischen Medaillen war Kipchoge 2012 vom Bahn- zum Straßenlauf gewechselt.&lt;/p&gt; &lt;p style="margin-left:1.27cm;"&gt;&lt;strong&gt;Diese Serie von voraussichtlich zwölf Sport-Mysterys + Bonus befindet sich derzeit im Aufbau. Für ein zukünftiges Finale sollte die letzte Ziffer der Ost-Koordinate als Bonuszahl notiert werden.&lt;br /&gt; Die angegebenen Koordinaten beziehen sich lediglich auf den Startpunkt einer landschaftlich besonders reizvollen Laufstrecke. Dieser ca. 6 km lange Kurs startet am tiefsten Punkt des Stefansbachtals und passiert Stefanstraße, Bruchmühle, Landringhauser Weg, Klosterholzstraße, Heller Weg, Feverstraße und Nelkenstraße. Um die Cache-Koordinaten zu erhalten, müssen folgende Aufgaben gelöst werden:&lt;/strong&gt;&lt;br /&gt;  &lt;/p&gt; &lt;p style="margin-left:1.27cm;"&gt;&lt;strong&gt;1.&lt;/strong&gt;&lt;/p&gt; &lt;p style="margin-left:1.27cm;"&gt;&lt;strong&gt;E7° A. B C D&lt;/strong&gt;&lt;/p&gt; &lt;p style="margin-left:1.27cm;"&gt;A = „Buchstabenwert der ethnischen Volksgruppe Eliud Kipchoges“ minus 24&lt;/p&gt; &lt;p style="margin-left:1.27cm;"&gt;B = „Alter Kipchoges bei seinem WM-Titel über 5.000 m“ minus 10&lt;/p&gt; &lt;p style="margin-left:1.27cm;"&gt;C = „Anzahl an Kipchoges Siegen bei Marathon-Majors (ohne Olympia)“ minus 1&lt;/p&gt; &lt;p style="margin-left:1.27cm;"&gt;D = „Durchschnittsgeschwindigkeit Kipchoges bei seinem offiziellen Marathon-Weltrekord in Berlin 2018 (gerundet)“ minus 15&lt;br /&gt;  &lt;/p&gt; &lt;p style="margin-left:1.27cm;"&gt;&lt;strong&gt;2a.&lt;/strong&gt;&lt;/p&gt; &lt;p style="margin-left:1.27cm;"&gt;&lt;strong&gt;N51° ? _ _ _&lt;/strong&gt;&lt;/p&gt; &lt;p style="margin-left:1.27cm;"&gt;Ein Läufer rennt vom virtuellen Standort dieses Caches aus einen Halbmarathon auf direktem Weg in Richtung Osten und erreicht dieser theoretischen Betrachtung zufolge in einer kleinen, sportartbezogenen Gemeinde das Ziel. Zu welcher Stadt gehört diese Gemeinde (Buchstabenanzahl)?&lt;br /&gt;  &lt;/p&gt; &lt;p style="margin-left:1.27cm;"&gt;&lt;strong&gt;2b.&lt;/strong&gt;&lt;/p&gt; &lt;p style="margin-left:1.27cm;"&gt;&lt;strong&gt;N51° _ ? ? ?&lt;/strong&gt;&lt;/p&gt; &lt;p style="margin-left:1.27cm;"&gt;7181&lt;/p&gt;&lt;!--geocaching.com Koordinatenchecker im Browser verfügbar--&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Fabelzeit</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="1090769176">
+          <groundspeak:date>2022-04-18T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">RonaldLamb</groundspeak:finder>
+          <groundspeak:text encoded="False">Hallo ,&lt;br /&gt; gibt es etwas Schöneres als Wandern? Wir meinen &amp;quot;ja&amp;quot;, denn als begeisterte Geocacher möchten wir dazu gerne die am Wege liegenden Dosen suchen und finden.  Heute hatten wir eine Tour bei HA_Westerbauer geplant. Auf unserer ToDo-Liste standen bemerkenswerte Tradies und Mysteries am Wegesrand. So konnte sich die Schätze auch nicht verstecken und wurden gehoben!! Für den Tag heute, die netten Ideen und die interessante Wegeführung möchten wir uns bedanken!!! Vielen Dank fürs Auslegen und Pflegen der Caches und fürs Zeigen der Location!! Beste Grüße vom Team RonaldLamb!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1080359123">
+          <groundspeak:date>2022-03-03T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">Attomas</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute ging’s nach der Arbeit nochmal für einen Marathon in den Wald. Auch wenn es heute eher ein Hürdenlauf war und am Ende auch keine Fabelzeit heraussprang. Trotzdem diese Herausforderung bestanden. Vielen Dank fürs Verstecken und Pflegen ?</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1075170327">
+          <groundspeak:date>2022-02-03T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">Guenther004</groundspeak:finder>
+          <groundspeak:text encoded="False">&lt;p&gt;Lieber Owner,&lt;/p&gt; &lt;p&gt;nun bin ich schon einige Zeit am Knacken Deiner Rätsel mit den Sport-Caches. Manche der berühmt-berüchtigten &amp;quot;2b-Fragen&amp;quot; erschlossen sich mir sofort, bei anderen hat es etwas gedauert, einige liegen derzeit noch auf Eis und warten auf &amp;quot;Erleuchtung&amp;quot;.&lt;/p&gt; &lt;p&gt;Das Marathon-Rätsel hat mich indoor zunächst eine Weile verwirrt, mit dem Hint im Listing jedoch kam ich alsbald dahinter, was gemeint war. Outdoor suchte ich ebenfalls nicht lange - hier stimmen die Koordinaten sehr genau - und war sehr angenehm überrascht über den tollen Wirt. &lt;img src="/images/icons/icon_smile.gif" border="0" align="middle" /&gt;&lt;/p&gt; &lt;p&gt;Wegen der besonderen &amp;quot;Umverpackung&amp;quot; ist das Logbuch knochentrocken. &lt;img src="/images/icons/icon_smile.gif" border="0" align="middle" /&gt;&lt;/p&gt; &lt;p&gt;Ein sehr interessanter und schöner Cache!&lt;/p&gt; &lt;p&gt;TFTC und viele Grüße aus Solingen&lt;br /&gt; Günther&lt;/p&gt;</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1054199956">
+          <groundspeak:date>2021-10-02T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">Kater Jo</groundspeak:finder>
+          <groundspeak:text encoded="False">Der Lauf gestaltete sich als gar nicht so schwierig . Vielen Dank. Kater Jo</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1050685697">
+          <groundspeak:date>2021-09-16T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">MrKrid</groundspeak:finder>
+          <groundspeak:text encoded="False">&lt;p&gt;Nach Turnen war der Marathon an der Reihe. Nicht das ich jetzt sooo weit laufe, aber ein paar Meter waren es letztendlich doch. &lt;img src="/images/icons/icon_smile_cool.gif" border="0" align="middle" /&gt;&lt;br /&gt; Nach des Rätsels Lösung bin ich ins Zielgebiet und habe erstmal nix gefunden. Ich kam mir vor wie bei einem Marathon, hin und her und wieder zurück. Nachdem ich fast die ganze Gegend abgesucht hatte, stand ich fast davor, vor dem sehr schön getarnten Dösken, Klasse! Ich kam mir vor wie ein &lt;em&gt;Sieger&lt;/em&gt;! &lt;img src="/images/icons/icon_smile_big.gif" border="0" align="middle" /&gt;&lt;br /&gt; Absolut Muggelfrei konnte ich den Zieleinlauf im Logbuch dokumentieren.&lt;/p&gt; &lt;p&gt;Vielen Dank an &lt;em&gt;Linderhausener&lt;/em&gt; für diese Abwechslung und den interessanten Cache. ?&lt;br /&gt; in: ? / out: ?&lt;/p&gt; &lt;p&gt;Gruß von &lt;em&gt;MrKrid&lt;/em&gt; ( &lt;a href="http://blog.mrkrid.net/" rel="nofollow" target="_blank"&gt;blog.mrkrid.net&lt;/a&gt; )&lt;br /&gt; logged with L4C | 4638 | #geocaching&lt;/p&gt;</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1035988011">
+          <groundspeak:date>2021-07-24T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">Teidefan</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute ging es los ein bisschen Sport zu treiben. Passend zum Start von Olympia.&lt;br /&gt; Einen Marathon wollten wir jedoch nicht laufen, trotzdem konnten wir einen Erfolg verbuchen und einen Smiley auf die Landkarte zauberten. Dabei ist Marathon die Königsdizipilin . Vor Ort suchten wir lange , bis wir endlich eine passende Umverpackung gefunden hatten. Kurze Zeit später fanden wir den passenden Deckel und fügten beide wieder zusammen. &lt;br /&gt; Danke für das  Rätsel und die Hege und Pflege des Caches.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1022996471">
+          <groundspeak:date>2021-05-30T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">GJL</groundspeak:finder>
+          <groundspeak:text encoded="False">Wir sind heute auch einen kleinen Marathon gelaufen.&lt;br /&gt; Es waren geschätzt 4,2 Kilometer und bei der Zeit lagen wir auch ganz gut bei ca. 2 Stunden.&lt;br /&gt; Dabei haben wir sogar noch Zeit gehabt ein Logbuch zu signieren.&lt;br /&gt; Danke für den Cache.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1018618986">
+          <groundspeak:date>2021-05-15T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">TeamPlanloscacher</groundspeak:finder>
+          <groundspeak:text encoded="False">&lt;p&gt;Diese Dose konnte ohne Probleme von dance4heaven für TeamPlanloscacher gefunden werden.&lt;/p&gt; &lt;p&gt;TFTC&lt;/p&gt;</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1018612586">
+          <groundspeak:date>2021-05-15T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">dance4heaven</groundspeak:finder>
+          <groundspeak:text encoded="False">&lt;p&gt;Heute habe ich die restlichen Sportmysteries besucht, die mir noch fehlten. Die Koords sprangen hier etwas, so dass ich die Dose umkreiste, bis ich sie dann erblickte.&lt;/p&gt; &lt;p&gt;TFTC&lt;/p&gt; &lt;p&gt;Nhpu vpu truöer mh qrara, qvr no haq mh va vuer Fgngvfgvx thpxra. Qn tvog rf qbpu gngfnrpuyvpu rvara Chaxg Ybtynratr, Jbregre. Jbehrore zna avpug nyyrf Fgngvfgvx shruera xnaa! Nyfb ireynratrer vpu zny zrvar Ybtf. Jre jrvff, ivryyrvpug xevrtr vpu vetraqjnaa rvara rkgen Thzzvchaxg qnsüe. Qra xnaa vpu qnaa mhfnzzra zvg zrvara Syrvffxnregpura na qvr Jnaq cvaara. Fvrug orfgvzzg gbyy nhf. Orffre nyf rvar brqr, jrvffr Jnaq. Gbyy jnrera anghreyvpu nhpu abpu ivryr oynhr Fpuyrvsra bqre Uremra m.O. süe zrvara Pnpur Qre fpuhffryvtr Xheg. Qre oenhpug hroevtraf vzzre Uvysr zvg frvarz Fpuyhrffry. Bqre qre ireyberar Xhfpuryunfr. Qre zhff haorqvatg jvrqre trshaqra jreqra. Bqre zöpugrg Vue Fnzzl Jhssfpuvafxv haq Ynen nhs rvare hatynhoyvpura Ervfr ortyrvgra? Ivryyrvpug unog Vue wn zny Yhfg....&lt;br /&gt; Qvrfre Grkg jheqr hroevtraf nhf rkgerz hzjrygserhaqyvpura,  jvrqreirejraqrgra Ohpufgnora jrttrjbesrare R-Znvyf trfpuevrora haq vfg ibyyfgäaqvt qvtvgny noonhone.&lt;/p&gt;</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1016663452">
+          <groundspeak:date>2021-05-09T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">TheSneakers</groundspeak:finder>
+          <groundspeak:text encoded="False">&lt;p&gt;Nachdem uns diese Rätselreihe schon einige Zeit und Nerven gekostet hat, sollte heute endlich die &amp;quot;Ernte eingefahren&amp;quot; werden. Eigentlich wollten wir zwar noch auf den Bonus warten, aber da der Bewegungsdrang heute nach Outdooraktivität schrie, wurde das CM gesattelt und es ging gen Gevelsberg.&lt;/p&gt; &lt;p&gt;Vor Ort ging es dann auch alles andere als trivial weiter. Die Verstecke und die thematisch passenden Döschen ließen sich teilweise ganz schön &amp;quot;bitten&amp;quot;. An der ein oder anderen Stelle stellte sich das Erfolgserlebnis dann nur mit TJ ein. Aber summasummarum waren dann am Ende des Tages alle Sportseriendosen gefunden, die Logbücher signiert und die Karte in dieser Gegend deutlich freundlicher gestaltet.     &lt;/p&gt; &lt;p&gt;TFTC TheSneakers&lt;/p&gt;</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1009212934">
+          <groundspeak:date>2021-04-14T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">pepper13</groundspeak:finder>
+          <groundspeak:text encoded="False">&lt;p&gt;Ganz spontan ging es heute mit Brandarion1, poethen und unseren Hunden zum Sport &amp;quot;machen&amp;quot;. Es fehlten nur noch 3 der tollen Rätsel, die nicht immer wirklich - gerade im letzten Teil - einfach zu lösen waren. &lt;br /&gt; Ein Marathon war das heute für mich auf jeden Fall, daran muss ich tatsächlich endlich arbeiten.&lt;/p&gt; &lt;p&gt;Vielen Dank für die Ausarbeitung der schönen Runde und für's erneute Herlocken. &lt;/p&gt; &lt;p&gt;Viele Grüße aus Schwerte.&lt;/p&gt;</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1008993809">
+          <groundspeak:date>2021-04-14T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">poethen</groundspeak:finder>
+          <groundspeak:text encoded="False">Dieser Marathon war eher ein Tough Mudder Lauf. &lt;br /&gt; Hauptsache das Ziel erreicht.&lt;br /&gt; Danke für die Dose.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1008918041">
+          <groundspeak:date>2021-04-14T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">Brandarion1</groundspeak:finder>
+          <groundspeak:text encoded="False">&lt;p&gt;Meine Güte - da waren wir schon so nah und mußten heute noch einmal antreten!! Aber: alle Wege führen nach Rom und der Marathon kommt irgendwann ans Ziel. Deshalb konnten wir  - pepper13, poeten und ich uns ins Logbuch eintragen.&lt;/p&gt; &lt;p&gt;Danke für die &amp;quot;sportliche&amp;quot; Herausforderung und&lt;/p&gt; &lt;p&gt;herzliche Grüße aus Hagen senden&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Brand&lt;/strong&gt; on und M &lt;strong&gt;arion1&lt;/strong&gt; (Hund ? und Frauchen ? )&lt;/p&gt;</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1007470031">
+          <groundspeak:date>2021-04-09T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">jujog</groundspeak:finder>
+          <groundspeak:text encoded="False">&lt;p&gt;Nachdem ich auch hier die Finalkoords hatte, ging es heute alleine zu einem Teil der verschiedenen Sportarten.&lt;/p&gt; &lt;p&gt;Da das Finale etwas 20m im off lag, dauerte es bis ich das schön gemachte Versteck finden konnte. TFTC&lt;/p&gt;</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1004347580">
+          <groundspeak:date>2021-03-31T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">RS2006</groundspeak:finder>
+          <groundspeak:text encoded="False">&lt;p&gt;Stilecht sollten die sportlichen Mysterys, nach langer Wuchs- und Reifezeit im Teamwork, heute mit dem MTB &lt;img src="/images/icons/icon_smile_cool.gif" border="0" align="middle" /&gt; angefahren werden. &lt;/p&gt; &lt;p&gt;...am Zielort angekommen, ging es hier kreisend wegen springender Koordinaten zum Döschen...&lt;/p&gt; &lt;p&gt;Alle Döschen waren sehr nett gestaltet &lt;img src="/images/icons/icon_smile_cool.gif" border="0" align="middle" /&gt; und mal mehr, mal weniger gut bis sehr gut &lt;img src="/images/icons/icon_smile_shy.gif" border="0" align="middle" /&gt; getarnt.&lt;br /&gt; So ging es mit dem Bike über Stock und Stein (und Tragepassagen mit querliegenden/-störenden Baumstämmen &lt;img src="/images/icons/icon_smile_dead.gif" border="0" align="middle" /&gt;&lt;img src="/images/icons/icon_smile_blackeye.gif" border="0" align="middle" /&gt;) und rauf und runter, dass es eine wahre Freude war. &lt;img src="/images/icons/icon_smile_big.gif" border="0" align="middle" /&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;T4TC&lt;/strong&gt;&lt;br /&gt; &lt;strong&gt;&lt;em&gt;RS2006&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1002340472">
+          <groundspeak:date>2021-03-23T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">DerBär</groundspeak:finder>
+          <groundspeak:text encoded="False">&lt;p&gt;#4155 - 12:15h&lt;/p&gt; &lt;p&gt;Beim Laufsport fühlte ich mich durchaus zu Hause. Die Marathon-Strecke hatte ich bisher zwar nur erwandert und nicht erlaufen, aber an den Halbmarathon hatte ich mich mal herangewagt und diverse 10km-Finisher-Urkunden befinden sich ebenfalls in meinem Besitz. Die für eine Marathonzeit um die 2 Stunden nötige Geschwindigkeit, würde ich allerdings maximal auf einem 100m-Vollsprint zustandebringen. Für mich völlig unvorstellbar, wie man so eine Zeit erreichen kann. Recht flott lief es ansonsten aber bei diesem Rätsel, denn sogar für die letzte Frage hatte ich schnell einen passenden Ansatz. Ähnlich fix gelang dann auch die Aufgabe im Wald, was ratzfatz zu einem erfolgreichen Eintrag im Logbuch führte.&lt;/p&gt; &lt;p&gt;TFTC&lt;br /&gt; DerBär&lt;/p&gt;</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1002063784">
+          <groundspeak:date>2021-03-22T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">Earl of Enerke</groundspeak:finder>
+          <groundspeak:text encoded="False">Eigentlich wollte ich ja nach der Fleissrecherchekniffelarbeit warten bis der Bonus erscheint. Aber es kribbelte einfach zu sehr im Navi, so das ich mich an diese Sporteinheit auch an der frischen Luft wagte. &lt;br /&gt; Schöne abwechslungsreiche Logbuchbehältnisse erwarteten mich auf der Tour....gut getarnt und meist sicher vor Muggelblicken;-)&lt;br /&gt; Vielen Dank dafür und bis denne anner Lenne</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1000307834">
+          <groundspeak:date>2021-03-14T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">Team3F</groundspeak:finder>
+          <groundspeak:text encoded="False">&lt;p&gt;Heute haben wir eine sportliche Runde mit dem SyburgRanger eingelegt.&lt;br /&gt; Die passenden Rätsel waren mitunter nicht so einfach zu lösen. &lt;br /&gt; Hier sind wir schnell fündig geworden. &lt;/p&gt; &lt;p&gt;Danke für den Cache.&lt;/p&gt;</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1000279672">
+          <groundspeak:date>2021-03-14T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">SyburgRanger</groundspeak:finder>
+          <groundspeak:text encoded="False">&lt;p&gt;Bei grottigem Wetter begab ich mich heute zusammen mit Team3F auf die hiesige Sportrunde im modernen 12-Kampf.&lt;/p&gt; &lt;p&gt;Mit den passenden Koordinaten im Gepäck war das Finden der Dosen kein Problem.&lt;br /&gt; Danke für die Idee und Ausführung zu Spiel, Platz und Sieg !&lt;/p&gt;</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="999450603">
+          <groundspeak:date>2021-03-07T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">Kruemel18</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf der heutigen Runde mit mano1972 und Bearl88 habe ich diesen Cache schnell gefunden.&lt;br /&gt; Liebe Grüße,&lt;br /&gt; Kruemel18</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="999055275">
+          <groundspeak:date>2021-03-07T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">Bearl88</groundspeak:finder>
+          <groundspeak:text encoded="False">&lt;p&gt;Heute ging es zusammen mit mabo1972 und Kruemel18 auf diese schöne sportliche Runde. mabo1972 hatte im Vorfeld bereits die teilweise auch heftigen Rätsel gelöst. Auch wenn es den Bonus noch nicht gibt, wollten wir heute bei diesem herrlichen Wanderwetter per pedes los ziehen. Die sehr nett gemachten Doserl konnten wir dabei alle prima finden, so dass wir gut voran kamen. Auch die Route führte uns durch eine sehr schöne Gegend, so dass wir hier heute richtig viel Spaß hatten.&lt;/p&gt; &lt;p&gt;Vielen Dank für das Hegen und Pflegen dieser sportlichen Tour und dieses Doserl!&lt;/p&gt; &lt;p&gt;Bearl88&lt;/p&gt;</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="998984799">
+          <groundspeak:date>2021-03-07T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">Whale</groundspeak:finder>
+          <groundspeak:text encoded="False">Diese Rätsel haben es wirklich in sich... Vor allem immer wieder Frage 2b &lt;img src="/images/icons/icon_smile_shock.gif" border="0" align="middle" /&gt; Nur mit vereinten Kräften konnte ich bei diesen Mysteries zu einer Lösung kommen. Heute war es mal an der Zeit einige gelöste Mysteries zu loggen. VIELEN DANK für diese sehr kniffligen Rätsel! TFTC!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="998886901">
+          <groundspeak:date>2021-03-07T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">mabo1972</groundspeak:finder>
+          <groundspeak:text encoded="False">&lt;p&gt;Heute ging es hauptsächlich in Sachen &amp;quot;Sport-Mysteries&amp;quot; nach Gevelsberg. In der Nähe von Leichtathletik trafen wir uns mit Kruemel18 und Bearl88.&lt;/p&gt; &lt;p&gt;Die Rätsel waren in den letzten Wochen nach und nach gelöst worden. Mal ging es allein, mal im Team und mal brauchten wir auch Hilfe. Und bei zwei Rätseln wurde auch der Checker gequält. Wir sagen nur to be or not &amp;quot;2b&amp;quot;. Aber egal ist 88. Am Ende war der Checker jeweils grün.&lt;/p&gt; &lt;p&gt;Nachdem wir nun ein paar Wochen auf den angekündigten Bonuscache gewartet haben, ging es dann heute doch mal los. Das Wetter lockte ja geradezu zu einer schönen Runde!&lt;/p&gt; &lt;p&gt;Wir sahen zum Teil kreativ gemachte Finals, hatten viel Spass und haben einen schönen Nachmittag verbracht!&lt;/p&gt; &lt;p&gt;Vielen Dank an Linderhausener für die Herausforderung, die schön gemachten Doserl und denn Anlass zu dieser Spazierrunde!&lt;/p&gt; &lt;p&gt;Viele Grüße vom Team mabo1972.&lt;/p&gt;</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="998058098">
+          <groundspeak:date>2021-03-03T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">funduscom</groundspeak:finder>
+          <groundspeak:text encoded="False"># 3461, 16h45': Wir hätten nie gedacht, mal einen Marathon zu schaffen. Aber als Ortskundiger haben wir nicht den Weg über Linderhausen und Nirwana gewählt, sondern die Abkürzung genommen, direkt das Ziel mit kurzen Schleifen erreicht und den Pokal (fast) gewonnen. DfdC und Gruß an Linderhausener.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="997710479">
+          <groundspeak:date>2021-03-03T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">LTBLeser</groundspeak:finder>
+          <groundspeak:text encoded="False">Danke für den überraschenden Fund bei unserer Querfeldeintour! &lt;br /&gt; LTBLeser</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="997215521">
+          <groundspeak:date>2021-02-28T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="">Linderhausener</groundspeak:finder>
+          <groundspeak:text encoded="False">Finalkoordinaten optimiert (natürlich ohne die Bonuszahl zu verändern)!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="996117496">
+          <groundspeak:date>2021-02-26T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">HappySilke</groundspeak:finder>
+          <groundspeak:text encoded="False">&lt;p&gt;Das nenn ich mal einen sportlichen Vormittag. &lt;/p&gt; &lt;p&gt;Erst aus dem Bett geturnt, dann zur &amp;quot;Autobahn&amp;quot; gedüst und dann aufgebrochen zu einem Marathon. &lt;/p&gt; &lt;p&gt;Auch wie die Vorlogger war ich ca 23 m weiter weg als &amp;quot;gewünscht&amp;quot;, aber dennoch war die Dose gut zu finden ;-) Ein Rundumblick an den &amp;quot;errechneten&amp;quot; Koordinaten reicht aus. &lt;/p&gt; &lt;p&gt;Auch hier eine &amp;quot;coole&amp;quot; Dose - verdient ;-) &lt;/p&gt; &lt;p&gt;Danke sagt Happy Silke mit Beagle Dori &lt;/p&gt;</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="994424443">
+          <groundspeak:date>2021-02-19T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">ti_eb</groundspeak:finder>
+          <groundspeak:text encoded="False">&lt;p&gt;Die Publish der Rätsel zu verschiedenen Sportarten habe ich mit der Zeit mitbekommen, aber aufgrund dem Erstellen eigener Caches erstmal beiseite geschoben.&lt;/p&gt; &lt;p&gt;In den letzten Tagen dann habe ich mich dran gesetzt und arbeitete mich durch. &lt;br /&gt; 1 und 2a war zumeist &amp;quot;relativ&amp;quot; problemlos.. &lt;br /&gt; 2b war eine Geduldsprobe, irgendwie wusste ich damit nichts anzufangen und fragte um Hilfe, die mir netterweise weiterhalf (Danke nochmal an der Stelle).&lt;/p&gt; &lt;p&gt;Heute dann das schöne Wetter genutzt und die Dosen aufgesucht. Schön gemachte Dosen, auch wenn ich mich über Hints gefreut hätte.&lt;/p&gt; &lt;p&gt;Auch ich wurde hier ich 25 m bergauf im off und nach einem TJ fündig.&lt;/p&gt; &lt;p&gt;Dfdc&lt;/p&gt;</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="994278455">
+          <groundspeak:date>2021-02-18T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">Heizer21</groundspeak:finder>
+          <groundspeak:text encoded="False">&lt;p&gt;Heute ging es zu den sportlichen Dosen in Gevelsberg. Ende des letzten Jahres hatte ich schon drei Dosen dieser Serie gefunden und geloggt. Bei der Dartsdose konnte ich niuchts finden, obwohl ich eine gute Vermutung hatte. Nach einem Tip war ich wieder an der alten Stelle. Jetzt war auch klar, dass ich beim letzten Male zu vorsichtig beim Öffnen der Dose war, denn der Verschluss war schon ziemlich stramm drauf. Dann ging es zum Kraftsort. UNd hier wurde es uns auf dem Weg dorthin richtig warm. Am Ziel fanden wir schnell die Dose. Leider ist das Sportgerät auf der Dose an der einen Seite schon lose. Nachdem wir eine andere Dose nicht fanden, ging es bei Snooker viel besser. Wie immer war das Versteck mit dem Sportgerät passend. Dann ging es mit dem Cachemobil zur Leichtathletik. Schnell hatten wir das Sportgerät gefunden. Das Sportgerät hatte ich vor Jahrzehnten schon mal probiert. Auch hier war der Verschluß sehr fest gezogen. Bei Kampfsport war ich vor Jahren schon einmal gewesen. Hier hatte sich viel verändert. Auch hier war wieder ein wunderschönes Kunstwerk. Das Logbuch lag daneben. Wir legten es darunter. Nun ging es über matschige Wege zum Motorsport. In einer passenden Umgebung fanden wir zuerst Motorradteile, aber keinen Cache. Dann sahen wir den großen Cachebehälter und einen genialen Logbehälter. Sowas kannte ich noch nicht. Zum Schluss legten wir zum Marathon eine längere Wegstrecke zurück. Am Ziel fing es dann an zu regnen. Da wir vor OIrt nichts fanden, riefen wir einen Vorfinder an. Dieser gab uns wertvolle Hilfe. Ziemlich im Off den Berg hinauf fanden wir im strömenden Regen die Dose.&lt;/p&gt; &lt;p&gt;Ein ganz dickes Lob für den Owner. Bei jeder Dose war eine tolle Arbeit passend zum Thema. Dafür gibt es natürlich viel blau.&lt;/p&gt; &lt;p&gt;Danke für den Cache sagt heizer 21.&lt;/p&gt; &lt;p&gt;Wer den folgenden Code entschlüsselt, bekommt drei kleine Belohnungen .&lt;br /&gt; 41 6C 73 20 42 65 6C 6F 68 6E 75 6E 67 20 66 FC 72 20 64 69 65 20 45 6E 74 73 63 68 6C FC 73 73 65 6C 75 6E 67 20 64 61 72 66 73 74 20 64 75 20 64 72 65 69 20 54 42 73 00 00 64 69 73 63 6F 76 65 72 6E 2E 20 20 45 51 36 34 35 35 00 00 4C 53 51 51 32 44 00 00 46 42 54 42 54 42 00 00 00 00 00 00 44 75 20 68 61 73 74 20 64 69 72 20 73 69 63 68 65 72 6C 69 63 68 20 73 63 68 6F 6E 20 64 69 65 73 65 20 46 72 61 67 65 20 67 65 73 74 65 6C 6C 74 3A 20 20 84 57 61 72 75 6D 20 73 74 65 68 74 20 65 69 67 65 6E 74 6C 69 63 68 20 64 69 65 73 65 72 20 76 65 72 73 63 68 6C FC 73 73 65 6C 74 65 20 54 65 78 74 20 75 6E 74 65 72 20 75 6E 73 65 72 65 6D 20 4C 6F 67 3F 93 20 20 4D 69 74 20 6D 65 68 72 20 6F 64 65 72 20 65 74 77 61 73 20 77 65 6E 69 67 65 72 20 41 75 66 77 61 6E 64 20 68 61 73 74 20 64 75 20 6E 75 6E 20 64 69 65 73 65 20 56 65 72 73 63 68 6C FC 73 73 65 6C 75 6E 67 20 67 65 6B 6E 61 63 6B 74 20 75 6E 64 20 FC 62 65 72 73 65 74 7A 74 2E 20 4A 65 74 7A 74 20 77 6F 6C 6C 65 6E 20 77 69 72 20 64 69 72 20 61 75 63 68 20 64 61 73 20 84 47 65 68 65 69 6D 6E 69 73 93 20 76 65 72 72 61 74 65 6E 2E 20 20 44 61 64 75 72 63 68 20 76 65 72 73 63 68 F6 6E 65 72 6E 20 77 69 72 20 6E 75 72 20 75 6E 73 65 72 65 20 53 74 61 74 69 73 74 69 6B 20 FC 62 65 72 20 64 69 65 20 4C E4 6E 67 65 20 75 6E 73 65 72 65 72 20 4C 6F 67 73 2E 20 41 6C 6C 65 73 20 6E 75 72 20 75 6D 20 65 69 6E 20 68 F6 68 65 72 65 73 20 42 61 64 67 65 47 65 6E 20 7A 75 20 65 72 72 65 69 63 68 65 6E 2E 20 47 61 6E 7A 20 73 63 68 F6 6E 20 62 65 6B 6C 6F 70 70 74 2C 20 6F 64 65 72 3F 20 0D 0A 56 69 65 6C 65 20 47 72 FC DF 65 20 0D 0A 68 65 69 7A 65 72 32 31 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00&lt;/p&gt;</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="992850393">
+          <groundspeak:date>2021-02-06T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">skquadrat</groundspeak:finder>
+          <groundspeak:text encoded="False">Mit Motorsport und Marathon können wir die beiden letzten gelösten Rätsel aus der Sportserie von Linderhausener loggen. Wir sind schon gespannt auf die nächsten Rätsel. Ein paar davon haben wir schließlich echt bravourös gelöst, auch wenn einige Wendungen bei 2b schon Recht fies waren. Mit etwas Erfahrung läuft es inzwischen ganz gut. Danke für Rätsel und standesgemäßen Cache, wenn man aus der richtigen Richtung kommt, ist er auch zu sehen. SKquadrat</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="992276261">
+          <groundspeak:date>2021-02-02T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">Brastjoma</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach einiger sportlicher Vorbereitung, allerdings eher theoretisch, ging es heute an den praktischen Teil. &lt;br /&gt; Zunächst widmete ich mich dem Kraftsport. Zum Aufwärmen ein kleiner Spaziergang von der Abstellmöglichkeit fürs CM. Dann ein wenig Hantelstemmen und der Logeintrag war mein!&lt;br /&gt; Als nächstes stand Turnen auf dem Programm. Hierzu wechselte ich die Sportstätte und erreichte nach kurzer Zeit die “Halle“. Hier dauerte es doch ein wenig bis ich das richtige Sportgerät vor mir hatte. Die Übung selber war dann ein Klacks!&lt;br /&gt; Auf gings dann zum Motorsportrennen. Bei einem Boxenstopp konnte ich mich ins “Erfolgsbuch“ eintragen.&lt;br /&gt; Der folgende Marathon gestaltete sich eher als Schlammwaten mit gleichzeitiger Dusche. Aber...ich erreichte mein Ziel und stehe nun auf der Teilnehmerliste.&lt;br /&gt; Als letzte sportliche Herausforderung stand der Radsport auf meinem Programm. Ein ordentlicher Weg dorthin, wieder durch Mottke und über Baumstammhürden. Doch dann hatte ich mein Ziel erreicht und ich konnte meine letzte Disziplin für heute erledigen. Gerne hätte ich ein Radl für meinen Rückweg gehabt, aber leider konnte ich mir keines ausleihen. So ging es zu Fuß zurück zum Auto, wo ich dann total schlammig und nass wieder ankam.&lt;br /&gt; Einen Treppchenplatz konnte ich in keiner Sportart erreichen, aber dabei sein ist alles!&lt;br /&gt; Dafür lasse ich beim Motorsport, Marthon und Radsport blaue Auszeichnungen für gelungene Aufführungen zurück!&lt;br /&gt; Ich bedanke mich bei der Turnierleitung und bei Trainingspartner Kenny34, ohne gemeinsame Vorbereitung wäre dieser “Fünfkampf“ heute nicht möglich gewesen.&lt;br /&gt; Brastjoma</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="992298770">
+          <groundspeak:date>2021-01-30T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">getzkommi</groundspeak:finder>
+          <groundspeak:text encoded="False">Marathon, das ist doch ein schöner Sport. Denn da können viele Tausend Teilnehmer mitmachen, und jeder, der ankommt, hat eine große Leistung erbracht und kann stolz auf sich sein. Das weiß ich ganz sicher von meinen eigenen Teilnahmen und von den vielen Malen, die ich als aktive Zuschauerin dabei war. &lt;br /&gt; Der Weg zum Final war super matschig, die errechneten Koords waren 25 m im Off, aber das schöne Versteck war zusammen mit Hechtesser dennoch zu finden.&lt;br /&gt; Vielen Dank für den Cache.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="992236695">
+          <groundspeak:date>2021-01-30T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">Hechtesser</groundspeak:finder>
+          <groundspeak:text encoded="False">&lt;p&gt;Dieser Mystery hat in mir sehr viele Erinnerungen an meine 50 Marathons (davon 4 bei einem Ironman) und 42 Inline-Marathons (10 davon mit getzkommi) hervorgerufen.&lt;br /&gt; Denn die Marathonläufe sind alle riesige Events mit Tausenden von stimmungsvollen Zuschauern und Musik- und Tanzgruppen an der Strecke.&lt;br /&gt; In welcher Sportart können sonst schon Freizeitsportler mit den Profis der Weltspitze gemeinsam starten und so etwas Tolles erleben!!!&lt;br /&gt; Und da ist es ganz egal, ob man nach ca. 2 Stunden im Ziel ist oder wie ich bei meiner Bestzeit nach 2:55:42 Stunden oder manche Läufer auch nach 6 Stunden.&lt;br /&gt; So ist auch nur für die Profis die Platzierung wichtig, weil es für sie auch um Ruhm und Preisgeld geht.&lt;br /&gt; Jeder hat sein Bestes gegeben und den Kampf gegen den inneren Schweinehund und den &amp;quot;Mann mit dem Hammer&amp;quot; gewonnen.&lt;br /&gt; Wenn man dann im Ziel nach 42,195 km von freiwilligen Helfern die Medaille umgehängt bekommt, dann fühlt sich jeder Finisher wie ein Gewinner und wird von allen bejubelt.&lt;br /&gt; Darum sieht man im Zielbereich eines Marathonlaufs zwar ziemlich erschöpfte, aber andererseits auch seeeeehr euphorische Menschen, weil jeder stolz auf seine Leistung ist  und Erlebnis mehr als Ergebnis ist. &lt;br /&gt; Ich kenne einige Marathonläufer, die haben sich die 42,195 tätowieren lassen.&lt;br /&gt; Was lassen sich erfolgreiche Cacher tätowieren zur Erinnerung an ihre Erfolge?&lt;br /&gt; Das mit den Erfolgen ist ein wenig beim Cachen auch so, wenn der Checker nach marathonlanger Rätselei endlich grünes Licht gibt (besonders bei diesen Mysteries mit 2b.) und man sich freut, wenn man das Dösken gefunden und sich im Logbuch eingetragen hat.&lt;br /&gt; Beides sind ja auch Erfolgserlebnisse und machen Geocaching zu so einem schönen Hobby.&lt;/p&gt; &lt;p&gt;Ach ja: Das passende Dösken konnten getzkommi und ich dank der Vorlogs problemlos und muggelfrei 25 m im Off finden.&lt;/p&gt; &lt;p&gt;Das war mit Sicherheit mein längster Log. Aber passt ja irgendwie. Es geht ja nicht um Sprint, sondern um MARATHON!&lt;/p&gt; &lt;p&gt;Danke für den Cache&lt;/p&gt; &lt;p&gt;Hechtesser&lt;/p&gt;</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="991632251">
+          <groundspeak:date>2021-01-30T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">MiMel+Ma</groundspeak:finder>
+          <groundspeak:text encoded="False">&lt;p&gt;Gestern Abend meldete der Oberindianer Vollzug beim nächsten Rätsel. Aber irgendwie hatten wir keine Lust mehr, im Dunkeln nochmal die Schuhe zu schnüren, zumal der erste Treppchenplatz auch schon vergeben war. &lt;br /&gt; Also fuhren wir heute im Hellen los - eine gute Entscheidung wie sich herausgestellen sollte. Wir suchten ne ganze Weile vergeblich und erst, als wir den Suchradius ausweiteten fanden wir das thematisch passende Döschen  - 25m im Off....&lt;br /&gt; Das hätte im Dunkeln keinen Spaß gemacht.&lt;br /&gt; Immerhin war der letzte Treppchenplatz noch unserer.&lt;br /&gt; Zurück am Auto begegneten wir dem Team, dem nur noch die grüne Pappe übrig geblieben ist....&lt;br /&gt; Aber bei einem Marathon ist man als Vierter immernoch ganz vorne mit dabei! &lt;/p&gt; &lt;p&gt;Danke und schöne Grüße aus Schwelm, &lt;br /&gt; MiMel +Ma&lt;/p&gt;</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="991630929">
+          <groundspeak:date>2021-01-30T00:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="">Winnetou JuRa</groundspeak:finder>
+          <groundspeak:text encoded="False">Nachdem das Rätsel gestern gelöst war, heute der Outdoorpart mit Mi vom Team MiMel+Ma. Auch der konnte gelöst werden, wenn auch 25 m im off. Vielleicht war hier ja ein &amp;quot;Besserverstecker&amp;quot; am Werk.&lt;br /&gt; Das Rätsel ging von A bis D schnell von der Hand. Bei 2a war der Zielort auch schnell ermittelt; wenn man allerdings einen Schreibfehler einbaut wird es mit der Buchstabenanzahl schwierig. Aber auch diese Klippe war dann umschifft und es blieb 2b. Das war dann eher ein 3000 m Hindernislauf mit diversen Stürzen am Wassergraben, als ein Marathon. Auf der letzten Runde haben wir dann die Füße wohl richtig gesetzt und der Checker zeigte grün. Blieb also die Suche nach dem Döschen für heute.&lt;br /&gt; LG aus Schwelm von Winnetou JuRa - wir sind gespannt auf die noch folgenden Rätsel der Reihe.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+    </groundspeak:cache>
+    <gsak:wptExtension>
+      <gsak:Watch>false</gsak:Watch>
+      <gsak:IsPremium>false</gsak:IsPremium>
+      <gsak:FavPoints>3</gsak:FavPoints>
+      <gsak:GcNote>1
+</gsak:GcNote>
+    </gsak:wptExtension>
+    <cgeo:cacheExtension>
+      <cgeo:assignedEmoji>0</cgeo:assignedEmoji>
+    </cgeo:cacheExtension>
+  </wpt>
+  <wpt lat="51.3335" lon="7.3146">
+    <name>0095KQV</name>
+    <cmt></cmt>
+    <desc>finale grob nach Kridliste</desc>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+    <gsak:wptExtension>
+      <gsak:Parent>GC95KQV</gsak:Parent>
+      <gsak:Child_ByGSAK>true</gsak:Child_ByGSAK>
+    </gsak:wptExtension>
+    <cgeo:userdefined>true</cgeo:userdefined>
+  </wpt>
+  <wpt lat="51.333667" lon="7.3146">
+    <name>0195KQV</name>
+    <cmt></cmt>
+    <desc>Markierung 1</desc>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+    <gsak:wptExtension>
+      <gsak:Parent>GC95KQV</gsak:Parent>
+      <gsak:Child_ByGSAK>true</gsak:Child_ByGSAK>
+    </gsak:wptExtension>
+    <cgeo:userdefined>true</cgeo:userdefined>
+  </wpt>
+  <wpt lat="51.3334" lon="7.3146">
+    <name>0295KQV</name>
+    <cmt></cmt>
+    <desc>Markierung 2</desc>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+    <gsak:wptExtension>
+      <gsak:Parent>GC95KQV</gsak:Parent>
+      <gsak:Child_ByGSAK>true</gsak:Child_ByGSAK>
+    </gsak:wptExtension>
+    <cgeo:userdefined>true</cgeo:userdefined>
+  </wpt>
+  <wpt lat="51.3335" lon="7.314433">
+    <name>0395KQV</name>
+    <cmt></cmt>
+    <desc>test</desc>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+    <gsak:wptExtension>
+      <gsak:Parent>GC95KQV</gsak:Parent>
+      <gsak:Child_ByGSAK>true</gsak:Child_ByGSAK>
+    </gsak:wptExtension>
+    <cgeo:userdefined>true</cgeo:userdefined>
+  </wpt>
+  <wpt lat="51.3335" lon="7.314633">
+    <name>0495KQV</name>
+    <cmt></cmt>
+    <desc>Markierung 3</desc>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+    <gsak:wptExtension>
+      <gsak:Parent>GC95KQV</gsak:Parent>
+      <gsak:Child_ByGSAK>true</gsak:Child_ByGSAK>
+    </gsak:wptExtension>
+    <cgeo:userdefined>true</cgeo:userdefined>
+  </wpt>
+</gpx>
