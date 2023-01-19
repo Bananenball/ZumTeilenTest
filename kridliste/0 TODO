@@ -2,12 +2,12 @@ Fehler:
 "&nbsp;" muss man wohl durch Leerzeichen ersetzen
 
 Fehlerhafte Daten bei opted-out user, z.B. bei 1079855500
-Finder ist  <span> und Log enth�lt:
+Finder ist  <span> und Log enthält:
 opted-out user
    &lt;/span&gt; <...> "item-col founds" <...>
-   bzw. in Datei: </span></div></div> <div class="item-col founds"><div><!----></div></div> <div class="item-col fp-issued"><div><!----></div></div></div></li></ul> <div class="pages mx-auto" style="padding-top: 1rem;"><div class="page-links"><nav><ul class="pagination pagination-sm"><li class="page-item"><a href="#page-1" class="page-link">�
+   bzw. in Datei: </span></div></div> <div class="item-col founds"><div><!----></div></div> <div class="item-col fp-issued"><div><!----></div></div></div></li></ul> <div class="pages mx-auto" style="padding-top: 1rem;"><div class="page-links"><nav><ul class="pagination pagination-sm"><li class="page-item"><a href="#page-1" class="page-link">«
 
-Korrekte Logschreiber unter dem Logeintrag in gc unter: "Geocaching � Logeintrag von Linderhausener f�r Marathon (Unknown Cache)"
+Korrekte Logschreiber unter dem Logeintrag in gc unter: "Geocaching – Logeintrag von Linderhausener für Marathon (Unknown Cache)"
 
 Optimierungen:
 time:
@@ -19,7 +19,12 @@ aus Sachsencacher Versteckdatum auslesen und in time schreiben:
 Favoritenquote aus Sachsencacher in Listing oder<gsak:FavPoints>3</gsak:FavPoints>
 
 Logfotos eintragen: z.B. hier view-source:https://www.geocaching.com/seek/log.aspx?code=GL16HM7EP
+       <div class="LogImagePanel logimg-display">
+                    <a id="ctl00_ContentBody_LogBookPanel1_ImageMain" title="Für&#32;eine&#32;größere&#32;Ansicht&#32;anklicken" href="https://img.geocaching.com/cache/log/83b0761f-f0c7-475b-bddf-ed37149c3bbc.jpg" target="_blank" style="display:inline-block;border-width:0px;"><img title="Für&#32;eine&#32;größere&#32;Ansicht&#32;anklicken" src="https://img.geocaching.com/cache/log/display/83b0761f-f0c7-475b-bddf-ed37149c3bbc.jpg" alt="" /></a>                  
+                    <span id="ctl00_ContentBody_LogBookPanel1_lbImageMain"><span class="logimg-caption">Eulchen absolvierte den Marathon und freut sich</span><span></span></span>
+                </div><!-- END .logimg-display -->
 
-weitere Bilder in logs k�nnen ggf. bleiben (v.a. smileys), man muss nur die <>-Zeichen ersetzen?
+
+weitere Bilder in logs können ggf. bleiben (v.a. smileys), man muss nur die <>-Zeichen ersetzen?
 
 siehe marathon-gpx
